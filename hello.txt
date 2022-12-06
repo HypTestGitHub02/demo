@@ -6,4 +6,4 @@ hello hyp!!! hello git!
 hello hyp!!! hello git!
 hello hyp!!! hello git!
 hello hyp!!! hello git! master test
-hello End hyp!!! hello git!
+hello End hyp!!! hello git! hot-fix test
